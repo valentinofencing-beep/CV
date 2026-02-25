@@ -1,1 +1,87 @@
-# CV
+<html>
+	<head>
+		<link href="style.css" rel="stylesheet">
+		<title>CV Valentino SABLJAK</title>
+	</head>
+
+	<body>
+		<header id="header">
+			<!-- resume header with your name and title -->
+			<h1><b>SABLJAK</b> Valentino</h1>
+			<hr>
+			Elève double licence Informatique, Science de la Vie (Université Evry Paris Saclay)
+			<hr>
+		</header>
+		<main>
+			<article id="mainLeft">
+				<section>
+                    <h2>
+                    numéro: +33 7 49 41 54 16
+                    </h2>
+                    <p>
+                    <i class="fa fa-envelope" aria-hidden="true"></i>
+                    <a href="mailto:20250737@etud.univ-evry.fr ">20250737@etud.univ-evry.fr </a>
+                    </p>
+                    <p>
+                    <i class="fab fa-github" aria-hidden="true"></i>
+                    <a href="github.com/gh-valentinofencing-beep">gh-valentinofencing-beep</a>
+                    </p>
+					<!-- contact info including social media -->
+				</section>
+				<section>
+					<h2>SKILLS</h2>
+					<!-- your skills AKA "buzzwords" -->
+                    <p>HTML, CSS, GitHub, VS Code...</p>
+				</section>
+				<section>
+					<h2>EDUCATION</h2>
+					<!-- your education -->
+                    <b>YOUR MAJOR</b>
+	                <p>
+	            	Your university or school
+                	</p>
+	                <p>
+	            	2018-2022
+                	</p>
+				</section>            
+			</article>
+			<article id="mainRight">
+				<section>
+					<h2>ABOUT</h2>
+					<!-- about you -->
+                     <p>A brief paragraph about you and what kind of job/company you are looking to work for.</p>
+				</section>
+				<section>
+					<h2>WORK EXPERIENCE</h2>
+					<!-- your work experience -->
+                     <h3><b>lycéen</b></h3>
+                    <p>
+            		lycée militaire de saint-Cyr | 2022 - 2025
+                    </p>
+                    <p>
+	            	Describe what you did in this position with one summary sentence and no more than 3 bullet points with specific highlights
+                    </p>
+                    <ul>
+	            	<li>Cool accomplishment</li>
+	            	<li>Cool accomplishment</li>
+	            	<li>Cool accomplishment</li>
+                    </ul>
+                    <br>
+                    <h3><b>JOB TITLE</b></h3>
+                    <p>
+	            	Company Name | 2008 - 2010
+                    </p>
+                    <p>
+            		Describe what you did in this position with one summary sentence and no more than 3 bullet points with specific highlights
+                    </p>
+                    <ul>
+	            	<li>Cool accomplishment</li>
+            		<li>Cool accomplishment</li>
+            		<li>Cool accomplishment</li>
+                    </ul>
+                </br>
+				</section>
+			</article>
+		</main>
+	</body>
+</html>
