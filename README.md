@@ -16,7 +16,7 @@
 			<article id="mainLeft">
 				<section>
                     <h2>
-                    numéro: +33 7 49 41 54 16
+                    numéro: +33 
                     </h2>
                     <p>
                     <i class="fa fa-envelope" aria-hidden="true"></i>
